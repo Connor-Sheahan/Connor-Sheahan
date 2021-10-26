@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Connor-Sheahan
-- 👀 I’m interested in Computer Science, Robotics, and Engineering. I'm currently looking to combine the three into some sort of mechatronics work.
+- 👋 Hi, I’m @Connor-Sheahan.
+- 👀 I’m interested in Computer Science, Robotics, and Engineering. I'm currently looking to combine these three passions into some sort of mechatronics work.
 - 🌱 I’m currently studying Track One Undeclared Engineering at University of Toronto.
 - 💞️ I’m not looking to collaborate on anything at the moment (school is hard lol).
 - 📫 How to reach me: Quickest way is to shoot me an email (connorsheahan2@gmail.com)!
