@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying Track One Undeclared Engineering at University of Toronto.
 - 💞️ I’m not looking to collaborate on anything at the moment (school is hard lol).
 - 📫 How to reach me: Quickest way is to shoot me an email (connorsheahan2@gmail.com)!
+- !! A lot of my files were uploaded via Git LFS due to large file size; this may make the "Download ZIP" button not work (downloads the 1kb pointer files). Sorry for the inconvinience!
 
 <!---
 Connor-Sheahan/Connor-Sheahan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
