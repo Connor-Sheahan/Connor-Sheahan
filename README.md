@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Connor-Sheahan.
-- 👀 I’m interested in Computer Science, Robotics, and Engineering. I'm currently looking to combine these three passions into some sort of mechatronics work.
-- 🌱 I’m currently studying Track One Undeclared Engineering at University of Toronto.
-- 💞️ I’m not looking to collaborate on anything at the moment (school is hard lol).
-- 📫 How to reach me: Quickest way is to shoot me an email (connorsheahan2@gmail.com)!
+- 👀 I’m a third year mechanical engineering student at The University of Toronto, and I'm taking two minors in Sustainable Energy and Mechatronics/Robotics.
+- 💞️ I have many passions across the various engineering disciplines, but I'm particularly passionate about the designing of space systems and sustainable energy systems.
+- 📫 How to reach me: Shoot me an email at connorsheahan2@gmail.com!
 - !! A lot of my files were uploaded via Git LFS due to large file size; this may make the "Download ZIP" button not work (downloads the 1kb pointer files). Sorry for the inconvinience!
 
 <!---
